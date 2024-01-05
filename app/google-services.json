@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482751312841",
+    "project_id": "wantapp-c3ec0",
+    "storage_bucket": "wantapp-c3ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482751312841:android:875cc00eff46161c5bae18",
+        "android_client_info": {
+          "package_name": "com.example.wantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxPIVniSNjLljkPcMyPM56kncUlgh2Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
